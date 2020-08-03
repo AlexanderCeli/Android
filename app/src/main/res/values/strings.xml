@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="what_s_the_current_week_number">What’s the Current Week Number?</string>
+    <string name="check">check</string>
+    <string name="start_again">START AGAIN</string>
+    <string name="right">Right!!</string>
+</resources>
